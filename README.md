@@ -32,7 +32,7 @@ Welcome to the Python Object-Oriented Programming (OOP) Concepts Repository! Thi
 # Getting Started
 Clone the repository to your local machine and explore the code examples, explanations, and hands-on exercises. Each section contains detailed documentation and Python code to help you understand and implement OOP concepts effectively.
 
-git clone https://github.com/rizwansaifi571/python-OOPs_-concepts.git
+git clone https://github.com/rizwansaifi571/OOPs_.git
 
 # Contributions
 Contributions are welcome! If you have improvements, additional examples, or corrections, feel free to submit a pull request. Let's collaborate to make this repository a valuable resource for the Python community.
